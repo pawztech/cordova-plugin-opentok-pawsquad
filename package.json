@@ -1,0 +1,8 @@
+{
+  "name": "OpentokCordova",
+  "version": "2.2.1",
+  "dependencies": {
+     "exec": "^0.2.0",
+     "tar": "^1.0.3"
+    }
+}
